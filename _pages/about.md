@@ -49,8 +49,8 @@ You can find my CV [**here** (English)](./cv_chujie_en.pdf).
 - Organizer:
   - May 2020 - Aug 2020. [SMP2020-ECDT](https://smp2020.aconf.cn/smp.html#3) Task 2
   - Jun 2019 - Nov 2019. [Chinese Idiom MRC Competition](https://biendata.com/competition/idiom/) [[data & codes]](https://github.com/chujiezheng/ChID-Dataset/tree/master/Competition)
-- Reviewer: ACL'22, EMNLP'22/21, AAAI'23/22, EACL'23, TIST
-- Review Assistant: EMNLP'20, AAAI'21, COLING'20, KNOSYS
+- Reviewer: ACL'22, EMNLP'22/21, AAAI'23/22, EACL'23, KNOSYS, TIST
+- Review Assistant: EMNLP'20, AAAI'21, COLING'20
 
 ## Experiences
 
