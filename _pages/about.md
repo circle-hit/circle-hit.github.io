@@ -14,7 +14,9 @@ I have built a series of **popular Chinese NLP / Dialogue benchmarks**, such as 
 
 Prior to my Ph.D career, I was fortunate to spend four free and enlightening years in the Dept. of Physics at Tsinghua University, where I received my B.Sc. degree.
 
-You can find my CV [**here** (English)](./cv_chujie_en.pdf).
+You can find my CV [**here** (English)](./cv_chujie_en.pdf). The figure below gives an overview of my major research framework and projects.
+
+<img src="./framework.png" alt="framework" style="zoom:50%;" />
 
 ## Education
 
@@ -38,7 +40,7 @@ You can find my CV [**here** (English)](./cv_chujie_en.pdf).
 
 ## Preprints
 
-1. Jinfeng Zhou\*, **Chujie Zheng\***, Bo Wang, Zheng Zhang and Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>arXiv:2208.08845</u>. [[paper]](https://arxiv.org/abs/2208.08845)
+1. Jinfeng Zhou, **Chujie Zheng**, Bo Wang, Zheng Zhang and Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>arXiv:2208.08845</u>. [[paper]](https://arxiv.org/abs/2208.08845)
 2. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu, Jie Tang and Minlie Huang. *EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training*. <u>arXiv:2203.09313</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA)
 3. **Chujie Zheng**, Sahand Sabour, Jiaxin Wen and Minlie Huang. *AugESC: Large-scale Data Augmentation for Emotional Support Conversation with Pre-trained Language Models*. <u>arXiv:2202.13047</u>. [[paper]](https://arxiv.org/abs/2202.13047)
 4. **Chujie Zheng** and Minlie Huang. *Exploring Prompt-based Few-shot Learning for Grounded Dialog Generation*. <u>arXiv:2109.06513</u>. [[paper]](https://arxiv.org/abs/2109.06513)
