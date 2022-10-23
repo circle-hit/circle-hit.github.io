@@ -16,7 +16,7 @@ Prior to my Ph.D career, I was fortunate to spend four free and enlightening yea
 
 You can find my CV [**here** (English)](./cv_chujie_en.pdf). The figure below gives an overview of my major research framework and projects.
 
-<img src="./framework.png" alt="framework" style="zoom:50%;" />
+![Research Framework](./framework.png)
 
 ## Education
 
