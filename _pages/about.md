@@ -41,7 +41,7 @@ You can find my CV [**here** (English)](./cv_chujie_en.pdf). The figure below gi
 ## Preprints
 
 1. Jinfeng Zhou, **Chujie Zheng**, Bo Wang, Zheng Zhang and Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>arXiv:2208.08845</u>. [[paper]](https://arxiv.org/abs/2208.08845)
-2. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu, Jie Tang and Minlie Huang. *EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training*. <u>arXiv:2203.09313</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA)
+2. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu and Minlie Huang. *EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training*. <u>Machine Intelligence Research 2022</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA)
 3. **Chujie Zheng**, Sahand Sabour, Jiaxin Wen and Minlie Huang. *AugESC: Large-scale Data Augmentation for Emotional Support Conversation with Pre-trained Language Models*. <u>arXiv:2202.13047</u>. [[paper]](https://arxiv.org/abs/2202.13047)
 4. **Chujie Zheng** and Minlie Huang. *Exploring Prompt-based Few-shot Learning for Grounded Dialog Generation*. <u>arXiv:2109.06513</u>. [[paper]](https://arxiv.org/abs/2109.06513)
 5. Hao Zhou\*, Pei Ke\*, Zheng Zhang\*, Yuxian Gu, Yinhe Zheng, **Chujie Zheng**, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang and Jie Tang. *EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training*. <u>arXiv:2108.01547</u>. [[paper]](https://arxiv.org/abs/2108.01547) [[repo]](https://github.com/thu-coai/EVA)
@@ -51,7 +51,7 @@ You can find my CV [**here** (English)](./cv_chujie_en.pdf). The figure below gi
 - Organizer:
   - May 2020 - Aug 2020. [SMP2020-ECDT](https://smp2020.aconf.cn/smp.html#3) Task 2
   - Jun 2019 - Nov 2019. [Chinese Idiom MRC Competition](https://biendata.com/competition/idiom/) [[data & codes]](https://github.com/chujiezheng/ChID-Dataset/tree/master/Competition)
-- Reviewer: ACL'22, EMNLP'22/21, AAAI'23/22, EACL'23, KNOSYS, TIST
+- Reviewer: ACL'22, EMNLP'21/22, AAAI'22/23, EACL'23, KNOSYS, TIST
 - Review Assistant: EMNLP'20, AAAI'21, COLING'20
 
 ## Experiences
