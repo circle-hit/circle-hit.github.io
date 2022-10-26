@@ -64,6 +64,6 @@ You can find my CV [**here** (English)](./cv_chujie_en.pdf). The figure below gi
 - **Excellent Thesis (Top 5/100)**, Tsinghua University, 2020
 - **Outstanding Graduate**, Tsinghua University, 2020
 - **Chi-Sun YEH (叶企孙) Scholarship (Top 5/100)**, Dept. of Physics, Tsinghua University, 2020
-- **National Scholarship (Top 5/100)**, 2019
+- **National Scholarship (Top 2/100)**, 2019
 - **Overall Excellence Scholarship**, Tsinghua University, 2018
 
