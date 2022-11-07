@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a third-year Ph.D student of [THU CoAI group](http://coai.cs.tsinghua.edu.cn/), advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Prior to my Ph.D career, I received my B.Sc degree from Dept. of Physics, Tsinghua University.
+Welcome! I am a third-year Ph.D candidate of [THU CoAI group](http://coai.cs.tsinghua.edu.cn/), advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Prior to my Ph.D career, I received my B.Sc degree from Dept. of Physics, Tsinghua University.
 
 I have a broad research interest in **open-domain dialogue system and text generation**. I have been working to build knowledgeable, empathetic, and well-behaved systems. I am also particularly interested in data-efficient approaches and life-long learning methods toward this goal.
 
