@@ -12,7 +12,7 @@ Welcome! I am a third-year Ph.D candidate of [THU CoAI group](http://coai.cs.tsi
 
 I have a broad research interest in **open-domain dialogue system and text generation**. I have been working to build knowledgeable, empathetic, and well-behaved systems. I am also particularly interested in data-efficient approaches and life-long learning methods toward this goal.
 
-I have built a series of **popular Chinese NLP / Dialogue benchmarks**, such as [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation) and [**CDConv**](https://github.com/thu-coai/CDConv). I also co-built many fundamental resources, including the pre-trained model [EVA](https://github.com/thu-coai/EVA) and the datasets such as [PsyQA](https://github.com/thu-coai/PsyQA), [DiaSafety](https://github.com/thu-coai/DiaSafety), and [COLD](https://github.com/thu-coai/COLDataset). Proud to see these work promoting the advances of Chinese NLP / Dialogue research!
+I have built a series of **popular Chinese NLP / Dialogue benchmarks**, such as [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation) and [**CDConv**](https://github.com/thu-coai/CDConv). I also co-built many fundamental resources, including the pre-trained model [EVA](https://github.com/thu-coai/EVA) and the datasets [PsyQA](https://github.com/thu-coai/PsyQA), [DiaSafety](https://github.com/thu-coai/DiaSafety), and [COLD](https://github.com/thu-coai/COLDataset). Proud to see these work promoting the advances of Chinese NLP / Dialogue research!
 
 The figure below gives an overview of my major research framework and projects. You can find my CV [**here** (English)](./cv_chujie_en.pdf).
 
@@ -40,10 +40,10 @@ The figure below gives an overview of my major research framework and projects. 
 
 ## Preprints
 
-1. Jinfeng Zhou, **Chujie Zheng**, Bo Wang, Zheng Zhang and Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>arXiv:2208.08845</u>. [[paper]](https://arxiv.org/abs/2208.08845)
-2. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu and Minlie Huang. *EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training*. <u>Machine Intelligence Research 2022</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA)
-3. **Chujie Zheng**, Sahand Sabour, Jiaxin Wen and Minlie Huang. *AugESC: Large-scale Data Augmentation for Emotional Support Conversation with Pre-trained Language Models*. <u>arXiv:2202.13047</u>. [[paper]](https://arxiv.org/abs/2202.13047)
-4. **Chujie Zheng** and Minlie Huang. *Exploring Prompt-based Few-shot Learning for Grounded Dialog Generation*. <u>arXiv:2109.06513</u>. [[paper]](https://arxiv.org/abs/2109.06513)
+1. **Chujie Zheng**, Sahand Sabour, Jiaxin Wen and Minlie Huang. *AugESC: Large-scale Data Augmentation for Emotional Support Conversation with Pre-trained Language Models*. <u>arXiv:2202.13047</u>. [[paper]](https://arxiv.org/abs/2202.13047)
+2. **Chujie Zheng** and Minlie Huang. *Exploring Prompt-based Few-shot Learning for Grounded Dialog Generation*. <u>arXiv:2109.06513</u>. [[paper]](https://arxiv.org/abs/2109.06513)
+3. Jinfeng Zhou, **Chujie Zheng**, Bo Wang, Zheng Zhang and Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>arXiv:2208.08845</u>. [[paper]](https://arxiv.org/abs/2208.08845)
+4. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu and Minlie Huang. *EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training*. <u>Machine Intelligence Research 2022</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA)
 5. Hao Zhou\*, Pei Ke\*, Zheng Zhang\*, Yuxian Gu, Yinhe Zheng, **Chujie Zheng**, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang and Jie Tang. *EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training*. <u>arXiv:2108.01547</u>. [[paper]](https://arxiv.org/abs/2108.01547) [[repo]](https://github.com/thu-coai/EVA)
 
 ## Services
@@ -66,4 +66,3 @@ The figure below gives an overview of my major research framework and projects. 
 - **Chi-Sun YEH (叶企孙) Scholarship (Top 5/100)**, Dept. of Physics, Tsinghua University, 2020
 - **National Scholarship (Top 2/100)**, 2019
 - **Overall Excellence Scholarship**, Tsinghua University, 2018
-
