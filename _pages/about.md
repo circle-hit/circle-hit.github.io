@@ -48,9 +48,9 @@ The figure below gives an overview of my major research framework and projects. 
 
 ## Talks
 
-- Jul 2021, AI Time. Approaches of Empathy Expression and Emotional Support in Dialogue Systems. [[video]](https://www.bilibili.com/video/BV1YB4y1N7L7/).
-- Nov 2020, Biendata & PaperWeekly. Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation. [[video]](https://www.bilibili.com/video/BV1fZ4y137UJ/).
-- Jul 2020, AI Time. KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation. [[video]](https://www.bilibili.com/video/BV1g54y1D7TG/).
+- Jul 2021, AI Time. Approaches of Empathy Expression and Emotional Support in Dialogue Systems. [[video]](https://www.bilibili.com/video/BV1YB4y1N7L7/)
+- Nov 2020, Biendata & PaperWeekly. Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation. [[video]](https://www.bilibili.com/video/BV1fZ4y137UJ/)
+- Jul 2020, AI Time. KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation. [[video]](https://www.bilibili.com/video/BV1g54y1D7TG/)
 
 ## Services
 
