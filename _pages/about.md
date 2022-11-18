@@ -46,6 +46,12 @@ The figure below gives an overview of my major research framework and projects. 
 4. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu and Minlie Huang. *EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training*. <u>Machine Intelligence Research 2022</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA)
 5. Hao Zhou\*, Pei Ke\*, Zheng Zhang\*, Yuxian Gu, Yinhe Zheng, **Chujie Zheng**, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang and Jie Tang. *EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training*. <u>arXiv:2108.01547</u>. [[paper]](https://arxiv.org/abs/2108.01547) [[repo]](https://github.com/thu-coai/EVA)
 
+## Talks
+
+- Jul 2021, AI Time. Approaches of Empathy Expression and Emotional Support in Dialogue Systems. [[video]](https://www.bilibili.com/video/BV1YB4y1N7L7/).
+- Nov 2020, Biendata & PaperWeekly. Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation. [[video]](https://www.bilibili.com/video/BV1fZ4y137UJ/).
+- Jul 2020, AI Time. KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation. [[video]](https://www.bilibili.com/video/BV1g54y1D7TG/).
+
 ## Services
 
 - Organizer:
