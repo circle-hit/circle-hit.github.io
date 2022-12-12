@@ -10,9 +10,7 @@ redirect_from:
 
 Welcome! I am a third-year Ph.D candidate of [THU CoAI group](http://coai.cs.tsinghua.edu.cn/), advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Prior to my Ph.D career, I received my B.Sc degree from Dept. of Physics, Tsinghua University.
 
-I have a broad research interest in **open-domain dialogue system and text generation**. I have been working to build knowledgeable, empathetic, and well-behaved systems. I am also particularly interested in data-efficient approaches and life-long learning methods toward this goal.
-
-I have built a series of **popular Chinese NLP / Dialogue benchmarks**, such as [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation) and [**CDConv**](https://github.com/thu-coai/CDConv). I also co-built many fundamental resources, including the pre-trained model [EVA](https://github.com/thu-coai/EVA) and the datasets [PsyQA](https://github.com/thu-coai/PsyQA), [DiaSafety](https://github.com/thu-coai/DiaSafety), and [COLD](https://github.com/thu-coai/COLDataset). Proud to see these work promoting the advances of Chinese NLP / Dialogue research!
+I have a broad research interest in **natural language generation and dialogue system**. In the past years, I have built a series of **popular Chinese NLP / Dialogue benchmarks**, such as [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation) and [**CDConv**](https://github.com/thu-coai/CDConv). I also co-built many fundamental resources, including the pre-trained model [EVA](https://github.com/thu-coai/EVA) and the datasets [PsyQA](https://github.com/thu-coai/PsyQA), [DiaSafety](https://github.com/thu-coai/DiaSafety), and [COLD](https://github.com/thu-coai/COLDataset). Proud to see these work promoting the advances of Chinese NLP / Dialogue research!
 
 The figure below gives an overview of my major research framework and projects. You can find my CV [**here** (English)](./cv_chujie_en.pdf).
 
