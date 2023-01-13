@@ -12,7 +12,7 @@ Welcome! I am a third-year Ph.D candidate of [THU CoAI group](http://coai.cs.tsi
 
 I have a broad research interest in **natural language generation and dialogue system**. In the past years, I have built a series of **popular Chinese NLP / Dialogue benchmarks**, such as [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation) and [**CDConv**](https://github.com/thu-coai/CDConv). I also co-built many fundamental resources, including the pre-trained model [EVA](https://github.com/thu-coai/EVA) and the datasets [PsyQA](https://github.com/thu-coai/PsyQA), [DiaSafety](https://github.com/thu-coai/DiaSafety), and [COLD](https://github.com/thu-coai/COLDataset). Proud to see these work promoting the advances of Chinese NLP / Dialogue research!
 
-The figure below gives an overview of my major research framework and projects. You can find my CV [**here** (English)](./cv_chujie_en.pdf).
+The figure below gives an overview of my major research projects. You can find my CV [**here** (English)](./cv_chujie_en.pdf).
 
 ![Research Framework](./framework.png)
 
@@ -41,22 +41,23 @@ The figure below gives an overview of my major research framework and projects. 
 1. **Chujie Zheng**, Sahand Sabour, Jiaxin Wen and Minlie Huang. *AugESC: Large-scale Data Augmentation for Emotional Support Conversation with Pre-trained Language Models*. <u>arXiv:2202.13047</u>. [[paper]](https://arxiv.org/abs/2202.13047)
 2. **Chujie Zheng** and Minlie Huang. *Exploring Prompt-based Few-shot Learning for Grounded Dialog Generation*. <u>arXiv:2109.06513</u>. [[paper]](https://arxiv.org/abs/2109.06513)
 3. Jinfeng Zhou, **Chujie Zheng**, Bo Wang, Zheng Zhang and Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>arXiv:2208.08845</u>. [[paper]](https://arxiv.org/abs/2208.08845)
-4. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu and Minlie Huang. *EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training*. <u>Machine Intelligence Research 2022</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA)
+4. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu and Minlie Huang. *EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training*. <u>arXiv:2203.09313</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA)
 5. Hao Zhou\*, Pei Ke\*, Zheng Zhang\*, Yuxian Gu, Yinhe Zheng, **Chujie Zheng**, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang and Jie Tang. *EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training*. <u>arXiv:2108.01547</u>. [[paper]](https://arxiv.org/abs/2108.01547) [[repo]](https://github.com/thu-coai/EVA)
 
 ## Talks
 
+- Nov 2022, Shanghai AI Lab. *Towards Well-behaved Dialogue Systems*.
 - Jul 2021, AI Time. *Approaches of Empathy Expression and Emotional Support in Dialogue Systems*. [[video]](https://www.bilibili.com/video/BV1YB4y1N7L7/)
 - Nov 2020, Biendata & PaperWeekly. *Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation*. [[video]](https://www.bilibili.com/video/BV1fZ4y137UJ/)
 - Jul 2020, AI Time. *KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation*. [[video]](https://www.bilibili.com/video/BV1g54y1D7TG/)
 
 ## Services
 
+- Reviewer: ACL'22, EMNLP'21/22, AAAI'22/23, EACL'23, KNOSYS, TIST
+- Review Assistant: EMNLP'20, AAAI'21, COLING'20
 - Organizer:
   - May 2020 - Aug 2020. [SMP2020-ECDT](https://smp2020.aconf.cn/smp.html#3) Task 2
   - Jun 2019 - Nov 2019. [Chinese Idiom MRC Competition](https://biendata.com/competition/idiom/) [[data & codes]](https://github.com/chujiezheng/ChID-Dataset/tree/master/Competition)
-- Reviewer: ACL'22, EMNLP'21/22, AAAI'22/23, EACL'23, KNOSYS, TIST
-- Review Assistant: EMNLP'20, AAAI'21, COLING'20
 
 ## Experiences
 
@@ -65,6 +66,8 @@ The figure below gives an overview of my major research framework and projects. 
 
 ## Selected Awards and Honors
 
+- **Comprehensive Scholarship (2nd Prize)**, Tsinghua University, 2022
+- **Comprehensive Scholarship (2nd Prize)**, Tsinghua University, 2021
 - **Excellent Thesis (Top 5/100)**, Tsinghua University, 2020
 - **Outstanding Graduate**, Tsinghua University, 2020
 - **Chi-Sun YEH (叶企孙) Scholarship (Top 5/100)**, Dept. of Physics, Tsinghua University, 2020
