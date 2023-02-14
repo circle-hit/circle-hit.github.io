@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chujie Zheng 郑楚杰"
+title                    : "Weixiang Zhao 赵伟翔"
 title_separator          : "-"
-name                     : &name "Chujie Zheng 郑楚杰"
-description              : &description "A third-year Ph.D student at Tsinghua University"
-url                      : https://chujiezheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Weixiang Zhao 赵伟翔"
+description              : &description "A Second-year Ph.D student at Harbin Insititute of Technology"
+url                      : https://circle-hit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chujiezheng.github.io"
-teaser                   : "chujie.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "circle-hit.github.io"
+teaser                   : "about.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "ChujieZheng"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ social:
 
 # Site Author
 author:
-  name             : "Chujie Zheng"
-  avatar           : "chujie.jpg"
-  bio              : "A third-year Ph.D student at Tsinghua University"
-  location         : "Beijing, China"
+  name             : "Weixiang Zhao"
+  avatar           : "about.png"
+  bio              : "A Second-year Ph.D student at Harbin Insititute of Technology"
+  location         : "Harbin, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com.hk/citations?user=55zBNgUAAAAJ"
-  email            : "chujiezhengchn@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=MHMJDGkAAAAJ&hl=zh-CN"
+  email            : "wxzhao@ir.hit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chujiezheng"
+  github           : "circle-hit"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ACoAADVXXgsB9wUnqTzY6deTa1d0RtkgTV__SmY"
+  linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ChujieZheng"
+  twitter          :
   vine             :
   weibo            :
   xing             :
