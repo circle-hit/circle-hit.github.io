@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a Ph.D. student in Research Center for Social Computing and Information Retrieval (SCIR), at Harbin Institute of Technology (HIT, China). My advisor is <a href="http://ir.hit.edu.cn/~yanyan/">Prof. Yanyan Zhao </a>. My research interests include emotion-aware dialogue systems, empathetic dialogue systems textual sentiment analysis and natural language processing.
+Hi, I'm a Ph.D. student in Research Center for Social Computing and Information Retrieval (SCIR), at Harbin Institute of Technology (HIT, China). My advisor is <a href="http://ir.hit.edu.cn/~yanyan/">Prof. Yanyan Zhao </a>. My research interests include emotion/knowledge-aware dialogue systems, empathetic dialogue systems, textual sentiment analysis and natural language processing.
 
 ## Education
 
