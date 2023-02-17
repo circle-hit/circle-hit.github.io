@@ -21,7 +21,8 @@ Hi, I'm a Ph.D. student in Research Center for Social Computing and Information 
 2. Xin Lu, **Weixiang Zhao**, Yanyan Zhao, Bing Qin, Zhentao Zhang, Junjie Wen. *A Topic-Enhanced Approach for Emotion Distribution Forecasting in Conversations*. <u>ICASSP 2023</u>.
 3. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *CauAIN: Causal Aware Interaction Network for Emotion Recognition in Conversations*. <u>IJCAI 2022</u>. [[paper]](https://www.ijcai.org/proceedings/2022/0628) [[repo]](https://github.com/circle-hit/CauAIN)
 4. **Weixiang Zhao**, Yanyan Zhao, Bing Qin. *MuCDN: Mutual Conversational Detachment Network for Emotion Recognition in Multi-Party Conversations*. <u>COLING 2022</u>. [[paper]](https://aclanthology.org/2022.coling-1.612/) [[repo]](https://github.com/circle-hit/MuCDN)
-5. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *An Aspect-Centralized Graph Convolutional Network for Aspect-based Sentiment Classification*. <u>NLPCC 2021</u>. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_20) [[repo]](https://github.com/circle-hit/ACGCN)
+5. Yanyan Zhao, Xin Lu, **Weixiang Zhao**, Yijian Tian, Bing Qin.  *Review of Emotional Dialogue Techniques*. <u>Ruan Jian Xue Bao/Journal of Software 2022</u> (in Chinese).
+6. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *An Aspect-Centralized Graph Convolutional Network for Aspect-based Sentiment Classification*. <u>NLPCC 2021</u>. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_20) [[repo]](https://github.com/circle-hit/ACGCN)
 
 ## Preprints
 
