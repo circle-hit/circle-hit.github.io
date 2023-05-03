@@ -8,25 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a Ph.D. student in Research Center for Social Computing and Information Retrieval (SCIR), at Harbin Institute of Technology (HIT, China). My advisor is <a href="http://ir.hit.edu.cn/~yanyan/">Prof. Yanyan Zhao </a>. My research interests include emotion/knowledge-aware dialogue systems, empathetic dialogue systems, textual sentiment analysis and natural language processing.
+Hi, I'm a Ph.D. student in Research Center for Social Computing and Information Retrieval (SCIR), at Harbin Institute of Technology (HIT, China). My advisor is <a href="http://ir.hit.edu.cn/~yanyan/">Prof. Yanyan Zhao </a> and <a href="http://ir.hit.edu.cn/~qinb/">Prof. Bing Qin. My research interests include emotion/knowledge-aware dialogue systems, empathetic dialogue systems, textual sentiment analysis and natural language processing.
 
 ## Education
 
-- Sept 2021 - Jul 2026 (Expected). Ph.D student in [SCIR](http://ir.hit.edu.cn), Dept. of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/)
+- Sept 2021 - Jul 2026 (Expected). Ph.D student in [SCIR](http://ir.hit.edu.cn), Dept. of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/) and [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/).
 - Sept 2017 - Jul 2021. B.Sc. in Dept. of Computer Science and Engineering, [Northeastern University](http://www.neu.edu.cn).
 
 ## Main Publications
 
-1. **Weixiang Zhao**, Yanyan Zhao, Zhuojun Li, Bing Qin. *Knowledge-Bridged Causal Interaction Network for Causal Emotion Entailment*. <u>AAAI 2023</u>. [[paper]](https://arxiv.org/abs/2212.02995) [[repo]](https://github.com/circle-hit/KBCIN)
-2. Xin Lu, **Weixiang Zhao**, Yanyan Zhao, Bing Qin, Zhentao Zhang, Junjie Wen. *A Topic-Enhanced Approach for Emotion Distribution Forecasting in Conversations*. <u>ICASSP 2023</u>. [[repo]](https://github.com/luxinxyz/EDFC)
-3. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *CauAIN: Causal Aware Interaction Network for Emotion Recognition in Conversations*. <u>IJCAI 2022</u>. [[paper]](https://www.ijcai.org/proceedings/2022/0628) [[repo]](https://github.com/circle-hit/CauAIN)
-4. **Weixiang Zhao**, Yanyan Zhao, Bing Qin. *MuCDN: Mutual Conversational Detachment Network for Emotion Recognition in Multi-Party Conversations*. <u>COLING 2022</u>. [[paper]](https://aclanthology.org/2022.coling-1.612/) [[repo]](https://github.com/circle-hit/MuCDN)
-5. Yanyan Zhao, Xin Lu, **Weixiang Zhao**, Yijian Tian, Bing Qin.  *Review of Emotional Dialogue Techniques*. <u>Ruan Jian Xue Bao/Journal of Software 2022</u> (in Chinese). [[paper]](http://www.jos.org.cn/jos/article/abstract/md040)
+1. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *Don't Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness*. <u>Findings of ACL 2023</u>.
+2. **Weixiang Zhao**, Yanyan Zhao, Shilong Wang, Bing Qin. *TransESC: Smoothing Emotional Support Conversation via Turn-Level State Transition*. <u>Findings of ACL 2023</u>.
+3. **Weixiang Zhao**, Yanyan Zhao, Zhuojun Li, Bing Qin. *Knowledge-Bridged Causal Interaction Network for Causal Emotion Entailment*. <u>AAAI 2023</u>. [[paper]](https://arxiv.org/abs/2212.02995) [[repo]](https://github.com/circle-hit/KBCIN)
+4. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *CauAIN: Causal Aware Interaction Network for Emotion Recognition in Conversations*. <u>IJCAI 2022</u>. [[paper]](https://www.ijcai.org/proceedings/2022/0628) [[repo]](https://github.com/circle-hit/CauAIN)
+5. **Weixiang Zhao**, Yanyan Zhao, Bing Qin. *MuCDN: Mutual Conversational Detachment Network for Emotion Recognition in Multi-Party Conversations*. <u>COLING 2022</u>. [[paper]](https://aclanthology.org/2022.coling-1.612/) [[repo]](https://github.com/circle-hit/MuCDN)
 6. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *An Aspect-Centralized Graph Convolutional Network for Aspect-based Sentiment Classification*. <u>NLPCC 2021</u>. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_20) [[repo]](https://github.com/circle-hit/ACGCN)
+7. Xin Lu, **Weixiang Zhao**, Yanyan Zhao, Bing Qin, Zhentao Zhang, Junjie Wen. *A Topic-Enhanced Approach for Emotion Distribution Forecasting in Conversations*. <u>ICASSP 2023</u>. [[repo]](https://github.com/luxinxyz/EDFC)
+8. Yanyan Zhao, Xin Lu, **Weixiang Zhao**, Yijian Tian, Bing Qin.  *Review of Emotional Dialogue Techniques*. <u>Ruan Jian Xue Bao/Journal of Software 2022</u> (in Chinese). [[paper]](http://www.jos.org.cn/jos/article/abstract/md040)
 
 ## Preprints
 
-1. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *Don't Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness*. <u>arXiv:2210.03884</u>. [[paper]](https://arxiv.org/abs/2210.03884)
+  1. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Shilong Wang, Yanpeng Tong, Bing Qin. *Is ChatGPT Equipped with Emotional Dialogue Capabilities?* <u>arXiv:2304.09582</u>. [[paper]](https://arxiv.org/abs/2212.02995)
 
 <!-- ## Talks
 
