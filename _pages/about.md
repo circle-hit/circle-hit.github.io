@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a Ph.D. student in Research Center for Social Computing and Information Retrieval (SCIR), at Harbin Institute of Technology (HIT, China). My advisor is [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/) and [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/). My research interests include emotion/knowledge-aware dialogue systems, empathetic dialogue systems, textual sentiment analysis and natural language processing.
+Hi, I'm a Ph.D. student in Research Center for Social Computing and Information Retrieval (SCIR), at Harbin Institute of Technology (HIT, China). My advisor is [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/) and [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/). My research interests include emotional dialogue systems, textual sentiment analysis and natural language processing.
 
 ## Education
 
@@ -17,14 +17,15 @@ Hi, I'm a Ph.D. student in Research Center for Social Computing and Information 
 
 ## Main Publications
 
-1. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *Don't Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness*. <u>Findings of ACL 2023</u>. [[paper]](https://arxiv.org/abs/2210.03884) [[repo]](https://github.com/circle-hit/EmpSOA)
-2. **Weixiang Zhao**, Yanyan Zhao, Shilong Wang, Bing Qin. *TransESC: Smoothing Emotional Support Conversation via Turn-Level State Transition*. <u>Findings of ACL 2023</u>. [[paper]](https://arxiv.org/abs/2305.03296) [[repo]](https://github.com/circle-hit/TransESC)
+1. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *Don't Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness*. <u>ACL 2023 (Findings)</u>. [[paper]](https://arxiv.org/abs/2210.03884) [[repo]](https://github.com/circle-hit/EmpSOA)
+2. **Weixiang Zhao**, Yanyan Zhao, Shilong Wang, Bing Qin. *TransESC: Smoothing Emotional Support Conversation via Turn-Level State Transition*. <u>ACL 2023 (Findings)</u>. [[paper]](https://arxiv.org/abs/2305.03296) [[repo]](https://github.com/circle-hit/TransESC)
 3. **Weixiang Zhao**, Yanyan Zhao, Zhuojun Li, Bing Qin. *Knowledge-Bridged Causal Interaction Network for Causal Emotion Entailment*. <u>AAAI 2023</u>. [[paper]](https://arxiv.org/abs/2212.02995) [[repo]](https://github.com/circle-hit/KBCIN)
 4. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *CauAIN: Causal Aware Interaction Network for Emotion Recognition in Conversations*. <u>IJCAI 2022</u>. [[paper]](https://www.ijcai.org/proceedings/2022/0628) [[repo]](https://github.com/circle-hit/CauAIN)
 5. **Weixiang Zhao**, Yanyan Zhao, Bing Qin. *MuCDN: Mutual Conversational Detachment Network for Emotion Recognition in Multi-Party Conversations*. <u>COLING 2022</u>. [[paper]](https://aclanthology.org/2022.coling-1.612/) [[repo]](https://github.com/circle-hit/MuCDN)
 6. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *An Aspect-Centralized Graph Convolutional Network for Aspect-based Sentiment Classification*. <u>NLPCC 2021</u>. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_20) [[repo]](https://github.com/circle-hit/ACGCN)
 7. Xin Lu, **Weixiang Zhao**, Yanyan Zhao, Bing Qin, Zhentao Zhang, Junjie Wen. *A Topic-Enhanced Approach for Emotion Distribution Forecasting in Conversations*. <u>ICASSP 2023</u>. [[paper]](https://ieeexplore.ieee.org/document/10096414) [[repo]](https://github.com/luxinxyz/EDFC)
-8. Yanyan Zhao, Xin Lu, **Weixiang Zhao**, Yijian Tian, Bing Qin.  *Review of Emotional Dialogue Techniques*. <u>Ruan Jian Xue Bao/Journal of Software 2022</u> (in Chinese). [[paper]](http://www.jos.org.cn/jos/article/abstract/md040)
+8. Wenjia Yi, Yanyan Zhao, Jianhua Yuan, **Weixiang Zhao**, Bing Qin *Improving Affective Event Classification with Multi-Perspective Knowledge Injection*. <u>CCL 2023</u>. [[paper]](https://ieeexplore.ieee.org/document/10096414)
+9. Yanyan Zhao, Xin Lu, **Weixiang Zhao**, Yijian Tian, Bing Qin.  *Review of Emotional Dialogue Techniques*. <u>Ruan Jian Xue Bao/Journal of Software 2022</u> (in Chinese). [[paper]](https://aclanthology.org/2023.ccl-1.66.pdf)
 
 ## Preprints
 
