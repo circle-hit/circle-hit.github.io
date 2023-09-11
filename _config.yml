@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weixiang Zhao 赵伟翔"
 title_separator          : "-"
 name                     : &name "Weixiang Zhao 赵伟翔"
-description              : &description "A Second-year Ph.D student at Harbin Insititute of Technology"
+description              : &description "A Third-year Ph.D student at Harbin Insititute of Technology"
 url                      : https://circle-hit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "circle-hit.github.io"
@@ -82,7 +82,7 @@ social:
 author:
   name             : "Weixiang Zhao"
   avatar           : "about.png"
-  bio              : "A Second-year Ph.D student at Harbin Insititute of Technology"
+  bio              : "A Third-year Ph.D student at Harbin Insititute of Technology"
   location         : "Harbin, China"
   employer         :
   pubmed           :
