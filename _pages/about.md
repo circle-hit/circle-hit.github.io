@@ -29,7 +29,9 @@ Hi, I'm a Ph.D. student in Research Center for Social Computing and Information 
 
 ## Preprints
 
-  1. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Shilong Wang, Yanpeng Tong, Bing Qin. *Is ChatGPT Equipped with Emotional Dialogue Capabilities?* <u>arXiv:2304.09582</u>. [[paper]](https://arxiv.org/abs/2212.02995)
+  1. **Weixiang Zhao**, Shilong Wang, Yulin Hu, Yanyan Zhao, Bing Qin, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che. *SAPT: A Shared Attention Framework for Parameter-Efficient Continual Learning of Large Language Models* <u>arXiv:2401.08295</u>. [[paper]](https://arxiv.org/abs/2401.08295)
+  2. **Weixiang Zhao**, Zhuojun Li^*, Shilong Wang^*, Yang Wang, Yulin Hu, Yanyan Zhao, Chen Wei, Bing Qin. *Both Matter: Enhancing the Emotional Intelligence of Large Language Models without Compromising the General Intelligence* <u>arXiv:2402.10073</u>. [[paper]](https://arxiv.org/abs/2402.10073)
+  3. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Shilong Wang, Yanpeng Tong, Bing Qin. *Is ChatGPT Equipped with Emotional Dialogue Capabilities?* <u>arXiv:2304.09582</u>. [[paper]](https://arxiv.org/abs/2212.02995)
 
 <!-- ## Talks
 
