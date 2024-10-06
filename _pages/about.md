@@ -21,6 +21,7 @@ Hi, I'm a Ph.D. student in Research Center for Social Computing and Information 
 
 1. **Weixiang Zhao**, Shilong Wang, Yulin Hu, Yanyan Zhao, Bing Qin, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che. *SAPT: A Shared Attention Framework for Parameter-Efficient Continual Learning of Large Language Models.* <u>ACL 2024 (Main)</u>. [[paper]](https://arxiv.org/abs/2401.08295)
 2. **Weixiang Zhao**, Zhuojun Li, Shilong Wang, Yang Wang, Yulin Hu, Yanyan Zhao, Chen Wei, Bing Qin. *Both Matter: Enhancing the Emotional Intelligence of Large Language Models without Compromising the General Intelligence.* <u>ACL 2024 (Findings)</u>. [[paper]](https://arxiv.org/abs/2402.10073)
+3. **Weixiang Zhao**, Yulin Hu, Jiahe Guo, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu. *Lens: Rethinking Multilingual Enhancement for Large Language Models.*
 
 ### Alignment of LLMs
 
@@ -58,7 +59,7 @@ Hi, I'm a Ph.D. student in Research Center for Social Computing and Information 
 
 ## Experiences
 
-- Nov 2023 - Present. Research Intern. Du Xiaoman (Beijing) Science Technology Co., Ltd, Beijing, China.
+- Nov 2023 - Sept 2024. Research Intern. Du Xiaoman (Beijing) Science Technology Co., Ltd, Beijing, China.
 - Nov 2020 - Mar 2021. Intern. Data, E-Commerce, ByteDance, Beijing, China.
 - Jan 2020 - Feb 2020. Research Intern. Peer Logic Lab, North Carolina State University, Raleigh, The U.S.
 
