@@ -21,7 +21,7 @@ Hi, I'm a Ph.D. student in Research Center for Social Computing and Information 
 
 1. **Weixiang Zhao**, Shilong Wang, Yulin Hu, Yanyan Zhao, Bing Qin, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che. *SAPT: A Shared Attention Framework for Parameter-Efficient Continual Learning of Large Language Models.* <u>ACL 2024 (Main)</u>. [[paper]](https://arxiv.org/abs/2401.08295) [[repo]](https://github.com/circle-hit/SAPT)
 2. **Weixiang Zhao**, Zhuojun Li, Shilong Wang, Yang Wang, Yulin Hu, Yanyan Zhao, Chen Wei, Bing Qin. *Both Matter: Enhancing the Emotional Intelligence of Large Language Models without Compromising the General Intelligence.* <u>ACL 2024 (Findings)</u>. [[paper]](https://arxiv.org/abs/2402.10073)
-3. **Weixiang Zhao**, Yulin Hu, Jiahe Guo, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu. *Lens: Rethinking Multilingual Enhancement for Large Language Models.* <u>arXiv:2410.04407</u>. [[paper]](https://arxiv.org/abs/2410.04407) [[repo]](https://github.com/circle-hit/Lens))
+3. **Weixiang Zhao**, Yulin Hu, Jiahe Guo, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu. *Lens: Rethinking Multilingual Enhancement for Large Language Models.* <u>arXiv:2410.04407</u>. [[paper]](https://arxiv.org/abs/2410.04407) [[repo]](https://github.com/circle-hit/Lens)
 
 ### Alignment of LLMs
 
