@@ -65,7 +65,8 @@ Hi, I'm a Ph.D. student in Research Center for Social Computing and Information 
 
 ## Selected Awards and Honors
 
+- **National Scholarship**, Harbin Institute of Technology, 2024
 - **Outstanding Student Paper**, Harbin Institute of Technology, 2022
 - **Second-Class Fresh-PhD Fellowship**, Harbin Institute of Technology, 2021
 - **Excellent Thesis**, Northeastern University, 2021
-- **National Scholarship**, 2018&2019
+- **National Scholarship**, Northeastern University, 2018&2019
