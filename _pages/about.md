@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a Ph.D. student in Research Center for Social Computing and Information Retrieval (SCIR), at Harbin Institute of Technology (HIT, China). My advisor is [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/) and [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/). My research interests include emotional dialogue systems, sentiment analysis, continual learning and alignment of large language models.
+Hello, I am a Ph.D. student at the Research Center for Social Computing and Information Retrieval (SCIR) at Harbin Institute of Technology (HIT), China. I am advised by [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/) and [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/). And I also collaborate closely with [Prof. Wanxiang Che](http://ir.hit.edu.cn/~car/). My research focuses on emotional dialogue systems, sentiment analysis, continual learning, and the alignment of large language models.
 
 ## Education
 
@@ -59,6 +59,7 @@ Hi, I'm a Ph.D. student in Research Center for Social Computing and Information 
 
 ## Experiences
 
+- Oct 2024 - Now. Visiting Student. National University of Singapore, Beijing, Beijing. Supervisor: Prof. Tat-Seng Chua.
 - Nov 2023 - Sept 2024. Research Intern. Du Xiaoman (Beijing) Science Technology Co., Ltd, Beijing, China.
 - Nov 2020 - Mar 2021. Intern. Data, E-Commerce, ByteDance, Beijing, China.
 - Jan 2020 - Feb 2020. Research Intern. Peer Logic Lab, North Carolina State University, Raleigh, The U.S.
