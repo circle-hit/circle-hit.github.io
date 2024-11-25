@@ -59,10 +59,10 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 
 ## Experiences
 
-- Oct 2024 - Now. Visiting Student. National University of Singapore, Beijing, Beijing. Supervisor: Prof. Tat-Seng Chua.
-- Nov 2023 - Sept 2024. Research Intern. Du Xiaoman (Beijing) Science Technology Co., Ltd, Beijing, China.
-- Nov 2020 - Mar 2021. Intern. Data, E-Commerce, ByteDance, Beijing, China.
-- Jan 2020 - Feb 2020. Research Intern. Peer Logic Lab, North Carolina State University, Raleigh, The U.S.
+- Oct 2024 - Now. Visiting Student. National University of Singapore, Singapore. Supervisor: Prof. Tat-Seng Chua.
+- Nov 2023 - Sept 2024. Research Intern. Du Xiaoman (Beijing) Science Technology Co., Ltd, Beijing, China. Supervisor: Dr. Qing Yang
+- Nov 2020 - Mar 2021. Intern. ByteDance, Beijing, China.
+- Jan 2020 - Feb 2020. Research Intern. Peer Logic Lab, North Carolina State University, Raleigh, The U.S. Supervisor: Dr. Yunkai Xiao and Prof. Ed Gehringer
 
 ## Selected Awards and Honors
 
