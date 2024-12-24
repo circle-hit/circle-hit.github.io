@@ -25,7 +25,8 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 
 ### Alignment of LLMs
 
-1. **Weixiang Zhao**, Yulin Hu, Zhuojun Li, Yang Deng, Yanyan Zhao, Bing Qin, Tat-Seng Chua. *Towards Comprehensive and Efficient Post Safety Alignment of Large Language Models via Safety Patching.* <u>arXiv:2405.13820</u>. [[paper]](https://arxiv.org/abs/2405.13820)
+1. **Weixiang Zhao**, Yulin Hu, Zhuojun Li, Yang Deng, Jiahe Guo, Xingyu Sui, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Towards Comprehensive Post Safety Alignment of Large Language Models via Safety Patching.* <u>arXiv:2405.13820</u>. [[paper]](https://arxiv.org/abs/2405.13820)
+2. **Weixiang Zhao**, Yulin Hu, Xingyu Sui, Zhuojun Li, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che. *The Gains Do not Make Up for the Losses: A Comprehensive Evaluation for Safety Alignment of Large Language Models via Machine Unlearning.* <u>Frontiers of Computer Science</u>.
 
 ### Emotional Dialogue Systems
 
