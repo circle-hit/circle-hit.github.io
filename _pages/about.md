@@ -23,17 +23,25 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 
 ## Main Publications
 
-### Continual Learning of LLMs
+### Continual Learning
 
 1. **Weixiang Zhao**, Shilong Wang, Yulin Hu, Yanyan Zhao, Bing Qin, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che. *SAPT: A Shared Attention Framework for Parameter-Efficient Continual Learning of Large Language Models.* <u>ACL 2024 (Main)</u>. [[paper]](https://arxiv.org/abs/2401.08295) [[repo]](https://github.com/circle-hit/SAPT)
 2. **Weixiang Zhao**, Zhuojun Li, Shilong Wang, Yang Wang, Yulin Hu, Yanyan Zhao, Chen Wei, Bing Qin. *Both Matter: Enhancing the Emotional Intelligence of Large Language Models without Compromising the General Intelligence.* <u>ACL 2024 (Findings)</u>. [[paper]](https://arxiv.org/abs/2402.10073)
-3. **Weixiang Zhao**, Yulin Hu, Jiahe Guo, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu. *Lens: Rethinking Multilingual Enhancement for Large Language Models.* <u>arXiv:2410.04407</u>. [[paper]](https://arxiv.org/abs/2410.04407) [[repo]](https://github.com/circle-hit/Lens)
+3. **Weixiang Zhao**, Yulin Hu, Jiahe Guo, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu. *Lens: Rethinking Multilingual Enhancement for Large Language Models.* <u>arXiv:2503.17979</u>. [[paper]](https://arxiv.org/abs/2503.17979) [[repo]](https://github.com/circle-hit/Lens)
 
-### Alignment of LLMs
+### Efficient (Adaptive) Reasoning
+
+1. **Weixiang Zhao**˟, Xingyu Sui˟, Jiahe Guo˟, Yulin Hu˟, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Tat-Seng Chua, Ting Liu. *Trade-offs in Large Reasoning Models: An Empirical Analysis of Deliberative and Adaptive Reasoning over Foundational Capabilities*. <u>arXiv:2410.04407</u>. [[paper]](https://arxiv.org/abs/2410.04407) [[repo]](https://github.com/SCIR-SC-Qiaoban-Team/FreeEvalLM)
+
+### Safety Alignment
 
 1. **Weixiang Zhao**˟, Yulin Hu˟, Yang Deng, Jiahe Guo, Xingyu Sui, Xinyang Han, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs.* <u>arXiv:2502.20968</u>. [[paper]](https://arxiv.org/pdf/2502.20968)
 2. **Weixiang Zhao**, Yulin Hu, Zhuojun Li, Yang Deng, Jiahe Guo, Xingyu Sui, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Towards Comprehensive Post Safety Alignment of Large Language Models via Safety Patching.* <u>arXiv:2405.13820</u>. [[paper]](https://arxiv.org/abs/2405.13820)
 3. **Weixiang Zhao**, Yulin Hu, Xingyu Sui, Zhuojun Li, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che. *The Gains Do not Make Up for the Losses: A Comprehensive Evaluation for Safety Alignment of Large Language Models via Machine Unlearning.* <u>Frontiers of Computer Science</u>.
+
+### Multilingual Enhancement
+
+1. **Weixiang Zhao**, Yulin Hu, Jiahe Guo, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu. *Lens: Rethinking Multilingual Enhancement for Large Language Models.* <u>arXiv:2503.17979</u>. [[paper]](https://arxiv.org/abs/2503.17979) [[repo]](https://github.com/circle-hit/Lens)
 
 ### Emotional Dialogue Systems
 
@@ -47,10 +55,8 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 8. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Shilong Wang, Yanpeng Tong, Bing Qin. *Is ChatGPT Equipped with Emotional Dialogue Capabilities?* <u>arXiv:2304.09582</u>. [[paper]](https://arxiv.org/abs/2212.02995)
 9. Xin Lu, **Weixiang Zhao**, Yanyan Zhao, Bing Qin, Zhentao Zhang, Junjie Wen. *A Topic-Enhanced Approach for Emotion Distribution Forecasting in Conversations*. <u>ICASSP 2023</u>. [[paper]](https://ieeexplore.ieee.org/document/10096414) [[repo]](https://github.com/luxinxyz/EDFC)
 10. Yanyan Zhao, Xin Lu, **Weixiang Zhao**, Yijian Tian, Bing Qin.  *Review of Emotional Dialogue Techniques*. <u>Ruan Jian Xue Bao/Journal of Software 2022</u> (in Chinese). [[paper]](https://aclanthology.org/2023.ccl-1.66.pdf)
-
-### Sentiment Analysis
-1. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *An Aspect-Centralized Graph Convolutional Network for Aspect-based Sentiment Classification*. <u>NLPCC 2021</u>. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_20) [[repo]](https://github.com/circle-hit/ACGCN)
-2. Wenjia Yi, Yanyan Zhao, Jianhua Yuan, **Weixiang Zhao**, Bing Qin *Improving Affective Event Classification with Multi-Perspective Knowledge Injection*. <u>CCL 2023</u>. [[paper]](https://ieeexplore.ieee.org/document/10096414)
+11. **Weixiang Zhao**, Yanyan Zhao, Xin Lu, Bing Qin. *An Aspect-Centralized Graph Convolutional Network for Aspect-based Sentiment Classification*. <u>NLPCC 2021</u>. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_20) [[repo]](https://github.com/circle-hit/ACGCN)
+12. Wenjia Yi, Yanyan Zhao, Jianhua Yuan, **Weixiang Zhao**, Bing Qin *Improving Affective Event Classification with Multi-Perspective Knowledge Injection*. <u>CCL 2023</u>. [[paper]](https://ieeexplore.ieee.org/document/10096414)
 
 <!-- ## Talks
 
