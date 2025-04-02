@@ -31,7 +31,7 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 
 ### Efficient (Adaptive) Reasoning
 
-1. **Weixiang Zhao**˟, Xingyu Sui˟, Jiahe Guo˟, Yulin Hu˟, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Tat-Seng Chua, Ting Liu. *Trade-offs in Large Reasoning Models: An Empirical Analysis of Deliberative and Adaptive Reasoning over Foundational Capabilities*. <u>arXiv:2410.04407</u>. [[paper]](https://arxiv.org/abs/2410.04407) [[repo]](https://github.com/SCIR-SC-Qiaoban-Team/FreeEvalLM)
+1. **Weixiang Zhao**˟, Xingyu Sui˟, Jiahe Guo˟, Yulin Hu˟, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Tat-Seng Chua, Ting Liu. *Trade-offs in Large Reasoning Models: An Empirical Analysis of Deliberative and Adaptive Reasoning over Foundational Capabilities*. <u>arXiv:2503.17979</u>. [[paper]](https://arxiv.org/pdf/2503.17979) [[repo]](https://github.com/SCIR-SC-Qiaoban-Team/FreeEvalLM)
 
 ### Safety Alignment
 
