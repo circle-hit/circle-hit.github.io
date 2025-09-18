@@ -25,8 +25,9 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 
 ### Continual Learning
 
-1. **Weixiang Zhao**, Shilong Wang, Yulin Hu, Yanyan Zhao, Bing Qin, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che. *SAPT: A Shared Attention Framework for Parameter-Efficient Continual Learning of Large Language Models.* <u>ACL 2024 (Main)</u>. [[paper]](https://arxiv.org/abs/2401.08295) [[repo]](https://github.com/circle-hit/SAPT)
-2. **Weixiang Zhao**, Zhuojun Li, Shilong Wang, Yang Wang, Yulin Hu, Yanyan Zhao, Chen Wei, Bing Qin. *Both Matter: Enhancing the Emotional Intelligence of Large Language Models without Compromising the General Intelligence.* <u>ACL 2024 (Findings)</u>. [[paper]](https://arxiv.org/abs/2402.10073)
+1. **Weixiang Zhao**, Xingyu Sui, Yulin Hu, Jiahe Guo, Haixiao Liu, Biye Li, Yanyan Zhao, Bing Qin, Ting Liu. *Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Personalized Alignment.* <u>NeurIPS 2025</u>. [[paper]](https://arxiv.org/pdf/2505.15456)
+2. **Weixiang Zhao**, Shilong Wang, Yulin Hu, Yanyan Zhao, Bing Qin, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che. *SAPT: A Shared Attention Framework for Parameter-Efficient Continual Learning of Large Language Models.* <u>ACL 2024 (Main)</u>. [[paper]](https://arxiv.org/abs/2401.08295) [[repo]](https://github.com/circle-hit/SAPT)
+3. **Weixiang Zhao**, Zhuojun Li, Shilong Wang, Yang Wang, Yulin Hu, Yanyan Zhao, Chen Wei, Bing Qin. *Both Matter: Enhancing the Emotional Intelligence of Large Language Models without Compromising the General Intelligence.* <u>ACL 2024 (Findings)</u>. [[paper]](https://arxiv.org/abs/2402.10073)
 
 ### Efficient (Adaptive) Reasoning
 
@@ -35,7 +36,7 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 
 ### Safety Alignment
 
-1. **Weixiang Zhao**, Yulin Hu, Yang Deng, Tongtong Wu, Wenxuan Zhang, Jiahe Guo, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *MPO: Multilingual Safety Alignment via Reward Gap Optimization.* <u>ACL 2025 (Main, Oral & Panel - Top 0.3% of Submissions)</u>. [[paper]](https://arxiv.org/pdf/2505.16869?) [[repo]](https://github.com/circle-hit/MPO)
+1. **Weixiang Zhao**, Yulin Hu, Yang Deng, Tongtong Wu, Wenxuan Zhang, Jiahe Guo, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *MPO: Multilingual Safety Alignment via Reward Gap Optimization.* <u>ACL 2025 (Main, 🌟Oral & Panel - Top 0.3% of Submissions)</u>. [[paper]](https://arxiv.org/pdf/2505.16869?) [[repo]](https://github.com/circle-hit/MPO)
 2. **Weixiang Zhao**˟, Yulin Hu˟, Yang Deng, Jiahe Guo, Xingyu Sui, Xinyang Han, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs.* <u>ACL 2025 (Main)</u>. [[paper]](https://arxiv.org/pdf/2502.20968) [[repo]](https://github.com/yulinlp/SaRFT)
 3. **Weixiang Zhao**˟, Jiahe Guo˟, Yulin Hu, Yang Deng, An Zhang, Xingyu Sui, Xinyang Han, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *AdaSteer: Your Aligned LLM is Inherently an Adaptive Jailbreak Defender.* <u>EMNLP 2025 (Main, Oral)</u>. [[paper]](https://arxiv.org/abs/2504.09466) [[repo]](https://github.com/MuyuenLP/AdaSteer)
 4. **Weixiang Zhao**, Yulin Hu, Zhuojun Li, Yang Deng, Jiahe Guo, Xingyu Sui, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Towards Comprehensive Post Safety Alignment of Large Language Models via Safety Patching.* <u>arXiv:2405.13820</u>. [[paper]](https://arxiv.org/abs/2405.13820)
@@ -43,8 +44,9 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 
 ### Multilingual Enhancement
 
-1. **Weixiang Zhao**, Yulin Hu, Yang Deng, Tongtong Wu, Wenxuan Zhang, Jiahe Guo, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *MPO: Multilingual Safety Alignment via Reward Gap Optimization.* <u>ACL 2025 (Main)</u>.
-2. **Weixiang Zhao**, Yulin Hu, Jiahe Guo, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu. *Lens: Rethinking Multilingual Enhancement for Large Language Models.* <u>ACL 2025 (Findings)</u>. [[paper]](https://arxiv.org/pdf/2410.04407) [[repo]](https://github.com/circle-hit/Lens)
+1. **Weixiang Zhao**, Jiahe Guo, Yang Deng, Tongtong Wu, Wenxuan Zhang, Yulin Hu, Xingyu Sui, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *When Less Language is More: Language-Reasoning Disentanglement Makes LLMs Better Multilingual Reasoners.* <u>NeurIPS 2025 (🌟Spotlight)</u>. [[paper]](https://arxiv.org/pdf/2505.15257)
+2. **Weixiang Zhao**, Yulin Hu, Yang Deng, Tongtong Wu, Wenxuan Zhang, Jiahe Guo, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *MPO: Multilingual Safety Alignment via Reward Gap Optimization.* <u>ACL 2025 (Main, 🌟Oral & Panel - Top 0.3% of Submissions)</u>.
+3. **Weixiang Zhao**, Yulin Hu, Jiahe Guo, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu. *Lens: Rethinking Multilingual Enhancement for Large Language Models.* <u>ACL 2025 (Findings)</u>. [[paper]](https://arxiv.org/pdf/2410.04407) [[repo]](https://github.com/circle-hit/Lens)
 
 ### Emotional Dialogue Systems
 
