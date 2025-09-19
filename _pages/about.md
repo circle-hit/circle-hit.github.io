@@ -44,7 +44,7 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 
 ### Multilingual Enhancement
 
-1. **Weixiang Zhao**, Jiahe Guo, Yang Deng, Tongtong Wu, Wenxuan Zhang, Yulin Hu, Xingyu Sui, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *When Less Language is More: Language-Reasoning Disentanglement Makes LLMs Better Multilingual Reasoners.* <u>NeurIPS 2025 (🌟Spotlight)</u>. [[paper]](https://arxiv.org/pdf/2505.15257)
+1. **Weixiang Zhao**, Jiahe Guo, Yang Deng, Tongtong Wu, Wenxuan Zhang, Yulin Hu, Xingyu Sui, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *When Less Language is More: Language-Reasoning Disentanglement Makes LLMs Better Multilingual Reasoners.* <u>NeurIPS 2025 (🌟Spotlight - Top 0.3% of Submissions)</u>. [[paper]](https://arxiv.org/pdf/2505.15257)
 2. **Weixiang Zhao**, Yulin Hu, Yang Deng, Tongtong Wu, Wenxuan Zhang, Jiahe Guo, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *MPO: Multilingual Safety Alignment via Reward Gap Optimization.* <u>ACL 2025 (Main, 🌟Oral & Panel - Top 0.3% of Submissions)</u>.
 3. **Weixiang Zhao**, Yulin Hu, Jiahe Guo, Xingyu Sui, Tongtong Wu, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Ting Liu. *Lens: Rethinking Multilingual Enhancement for Large Language Models.* <u>ACL 2025 (Findings)</u>. [[paper]](https://arxiv.org/pdf/2410.04407) [[repo]](https://github.com/circle-hit/Lens)
 
