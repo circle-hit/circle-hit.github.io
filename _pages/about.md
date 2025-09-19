@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D. student at the Research Center for Social Computing and Information Retrieval (SCIR) at Harbin Institute of Technology (HIT), China. I am advised by [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/) and [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/). And I also collaborate closely with [Prof. Wanxiang Che](http://ir.hit.edu.cn/~car/) and Prof. Ting Liu(https://scholar.google.com/citations?user=zyMJ1V0AAAAJ&hl=zh-CN). My current research primarily focuses on the efficient, effective, and scalable post-training of large language models (LLMs), with particular attention to its applications in:
+Hello, I am a Ph.D. student at the Research Center for Social Computing and Information Retrieval (SCIR) at Harbin Institute of Technology (HIT), China. I am advised by [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/) and [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/). And I also collaborate closely with [Prof. Wanxiang Che](http://ir.hit.edu.cn/~car/) and [Prof. Ting Liu](https://scholar.google.com/citations?user=zyMJ1V0AAAAJ&hl=zh-CN). My current research primarily focuses on the efficient, effective, and scalable post-training of large language models (LLMs), with particular attention to its applications in:
 
 - Continual Learning
 - Efficient (Adaptive) Reasoning
