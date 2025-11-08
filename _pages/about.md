@@ -32,15 +32,16 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 ### Efficient (Adaptive) Reasoning
 
 1. **Weixiang Zhao**, Jiahe Guo, Yang Deng, Xingyu Sui, Yulin Hu, Yanyan Zhao, Wanxiang Che, Bing Qin, Tat-Seng Chua, Ting Liu. *Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement*. <u>arXiv:2506.15647</u>. [[paper]](https://arxiv.org/pdf/2506.15647?)
-2. **Weixiang Zhao**˟, Xingyu Sui˟, Jiahe Guo˟, Yulin Hu˟, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Tat-Seng Chua, Ting Liu. *Trade-offs in Large Reasoning Models: An Empirical Analysis of Deliberative and Adaptive Reasoning over Foundational Capabilities*. <u>arXiv:2503.17979</u>. [[paper]](https://arxiv.org/pdf/2503.17979) [[repo]](https://github.com/SCIR-SC-Qiaoban-Team/FreeEvalLM)
+2. **Weixiang Zhao**˟, Xingyu Sui˟, Jiahe Guo˟, Yulin Hu˟, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che, Tat-Seng Chua, Ting Liu. *Trade-offs in Large Reasoning Models: An Empirical Analysis of Deliberative and Adaptive Reasoning over Foundational Capabilities*. <u>AAAI 2026</u>. [[paper]](https://arxiv.org/pdf/2503.17979) [[repo]](https://github.com/SCIR-SC-Qiaoban-Team/FreeEvalLM)
 
 ### Safety Alignment
 
 1. **Weixiang Zhao**, Yulin Hu, Yang Deng, Tongtong Wu, Wenxuan Zhang, Jiahe Guo, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *MPO: Multilingual Safety Alignment via Reward Gap Optimization.* <u>ACL 2025 (Main, 🌟Oral & Panel - Top 0.3% of Submissions)</u>. [[paper]](https://arxiv.org/pdf/2505.16869?) [[repo]](https://github.com/circle-hit/MPO)
 2. **Weixiang Zhao**˟, Yulin Hu˟, Yang Deng, Jiahe Guo, Xingyu Sui, Xinyang Han, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs.* <u>ACL 2025 (Main)</u>. [[paper]](https://arxiv.org/pdf/2502.20968) [[repo]](https://github.com/yulinlp/SaRFT)
-3. **Weixiang Zhao**˟, Jiahe Guo˟, Yulin Hu, Yang Deng, An Zhang, Xingyu Sui, Xinyang Han, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *AdaSteer: Your Aligned LLM is Inherently an Adaptive Jailbreak Defender.* <u>EMNLP 2025 (Main, Oral)</u>. [[paper]](https://arxiv.org/abs/2504.09466) [[repo]](https://github.com/MuyuenLP/AdaSteer)
-4. **Weixiang Zhao**, Yulin Hu, Zhuojun Li, Yang Deng, Jiahe Guo, Xingyu Sui, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Towards Comprehensive Post Safety Alignment of Large Language Models via Safety Patching.* <u>arXiv:2405.13820</u>. [[paper]](https://arxiv.org/abs/2405.13820)
-5. **Weixiang Zhao**, Yulin Hu, Xingyu Sui, Zhuojun Li, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che. *The Gains Do not Make Up for the Losses: A Comprehensive Evaluation for Safety Alignment of Large Language Models via Machine Unlearning.* <u>Frontiers of Computer Science</u>.
+3. **Weixiang Zhao**˟, Haozhen Li˟, Yanyan Zhao, Haixiao Liu, Biye Li, Ting Liu, Bing Qin. *CultureRL: Internalizing Cultural Principles in Large Language Models via Norm-Driven Reinforcement Learning.* <u>AAAI 2026</u>.
+4. **Weixiang Zhao**˟, Jiahe Guo˟, Yulin Hu, Yang Deng, An Zhang, Xingyu Sui, Xinyang Han, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *AdaSteer: Your Aligned LLM is Inherently an Adaptive Jailbreak Defender.* <u>EMNLP 2025 (Main, Oral)</u>. [[paper]](https://arxiv.org/abs/2504.09466) [[repo]](https://github.com/MuyuenLP/AdaSteer)
+5. **Weixiang Zhao**, Yulin Hu, Zhuojun Li, Yang Deng, Jiahe Guo, Xingyu Sui, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Towards Comprehensive Post Safety Alignment of Large Language Models via Safety Patching.* <u>arXiv:2405.13820</u>. [[paper]](https://arxiv.org/abs/2405.13820)
+6. **Weixiang Zhao**, Yulin Hu, Xingyu Sui, Zhuojun Li, Yang Deng, Yanyan Zhao, Bing Qin, Wanxiang Che. *The Gains Do not Make Up for the Losses: A Comprehensive Evaluation for Safety Alignment of Large Language Models via Machine Unlearning.* <u>Frontiers of Computer Science</u>.
 
 ### Multilingual Enhancement
 
