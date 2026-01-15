@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D. student at the Research Center for Social Computing and Information Retrieval (SCIR) at Harbin Institute of Technology (HIT), China. I am advised by [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/) and [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/). And I also collaborate closely with [Prof. Wanxiang Che](http://ir.hit.edu.cn/~car/) and [Prof. Ting Liu](https://scholar.google.com/citations?user=zyMJ1V0AAAAJ&hl=zh-CN). My current research primarily focuses on the efficient, effective, and scalable post-training of large language models (LLMs), with particular attention to its applications in:
+Hello, I am a Ph.D. graduated from the Research Center for Social Computing and Information Retrieval (SCIR) at Harbin Institute of Technology (HIT), China. I am advised by [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/) and [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/). And I also collaborate closely with [Prof. Wanxiang Che](http://ir.hit.edu.cn/~car/) and [Prof. Ting Liu](https://scholar.google.com/citations?user=zyMJ1V0AAAAJ&hl=zh-CN). My current research primarily focuses on the efficient, effective, and scalable post-training of large language models (LLMs), with particular attention to its applications in:
 
 - Continual Learning
 - Efficient (Adaptive) Reasoning
@@ -18,7 +18,7 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 
 ## Education
 
-- Sept 2021 - Jul 2026 (Expected). Ph.D student in [SCIR](http://ir.hit.edu.cn), Dept. of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/) and [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/).
+- Sept 2021 - Dec 2025. Ph.D student in [SCIR](http://ir.hit.edu.cn), Dept. of Computer Science and Technology, [Harbin Institute of Technology](http://www.hit.edu.cn). Advisor: [Prof. Yanyan Zhao](http://ir.hit.edu.cn/~yanyan/) and [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/).
 - Sept 2017 - Jul 2021. B.Sc. in Dept. of Computer Science and Engineering, [Northeastern University](http://www.neu.edu.cn).
 
 ## Main Publications
@@ -81,14 +81,14 @@ Hello, I am a Ph.D. student at the Research Center for Social Computing and Info
 
 ## Experiences
 
-- Oct 2024 - Now. Visiting Student. National University of Singapore, Singapore. Supervisor: Prof. Tat-Seng Chua. Mentor: Prof. Yang Deng and Prof. An Zhang.
+- Oct 2024 - Nov 2025. Visiting Student. National University of Singapore, Singapore. Supervisor: Prof. Tat-Seng Chua. Mentor: Prof. Yang Deng and Prof. An Zhang.
 - Nov 2023 - Sept 2024. Research Intern. Du Xiaoman (Beijing) Science Technology Co., Ltd, Beijing, China. Supervisor: Dr. Qing Yang.
 - Nov 2020 - Mar 2021. Intern. ByteDance, Beijing, China.
 - Jan 2020 - Feb 2020. Research Intern. Peer Logic Lab, North Carolina State University, Raleigh, The U.S. Supervisor: Dr. Yunkai Xiao and Prof. Ed Gehringer.
 
 ## Selected Awards and Honors
 
-- **National Scholarship**, Harbin Institute of Technology, 2024
+- **National Scholarship**, Harbin Institute of Technology, 2024 & 2025
 - **Outstanding Student Paper**, Harbin Institute of Technology, 2022
 - **Second-Class Fresh-PhD Fellowship**, Harbin Institute of Technology, 2021
 - **Excellent Thesis**, Northeastern University, 2021
